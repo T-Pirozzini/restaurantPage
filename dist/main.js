@@ -1,0 +1,1 @@
+(()=>{console.log("hello there");const e=document.querySelector("#content"),o=document.createElement("div");o.textContent="What would you like to order?",o.style.color="blue",o.style.backgroundColor="lightgreen",e.appendChild(o)})();
